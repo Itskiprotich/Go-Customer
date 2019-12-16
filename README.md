@@ -1,4 +1,4 @@
-# Go Artist
+# Go Customer
 
 FAB ARTIST is an online platform for all customers to hire different services rendered by various Artists.
 
