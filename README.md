@@ -7,16 +7,16 @@ This application includes a great revenue model for the administrators, simple a
 ## FAB ARTIST Functionalities & Features – An Overview
 # Customer Can
 
-Discover Artist by Categories
-Find Near by artist by Location
-Book & Schedule Appointments
-Make Online Payment
-Perform Live Chat with artist
-View Detailed Profile of Artist
-Post Jobs to Get Served
-View & Compare Job Applications
-View & Submit Review Ratings
-Add Favorite Artists For Future Services
+Discover Artist by Categories<br>
+Find Near by artist by Location<br>
+Book & Schedule Appointments<br>
+Make Online Payment<br>
+Perform Live Chat with artist<br>
+View Detailed Profile of Artist<br>
+Post Jobs to Get Served<br>
+View & Compare Job Applications<br>
+View & Submit Review Ratings<br>
+Add Favorite Artists For Future Services<br>
 Refer Application to Other Users to Avail Offer Benefits
 
 ## Please Take a Tour Of Our App
